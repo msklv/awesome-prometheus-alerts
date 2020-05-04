@@ -12,6 +12,10 @@ Collection available here: **[https://awesome-prometheus-alerts.grep.to](https:/
 - [Help us](#-show-your-support)
 - [License](#-license)
 
+
+feoskjfiasddfpsjkfpdsjkf;dsl
+
+
 ## 🚨 Rules
 
 #### Basic resource monitoring
