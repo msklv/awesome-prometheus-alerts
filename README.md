@@ -25,6 +25,8 @@ feoskjfiasddfpsjkfpdsjkf;dsl
 - [Docker Containers](https://awesome-prometheus-alerts.grep.to/rules#docker-containers)
 - [Blackbox](https://awesome-prometheus-alerts.grep.to/rules#blackbox)
 - [Windows](https://awesome-prometheus-alerts.grep.to/rules#windows-server)
+- [VMWare](https://awesome-prometheus-alerts.grep.to/rules#vmware)
+- [Netdata](https://awesome-prometheus-alerts.grep.to/rules#netdata)
 
 #### Databases and brokers
 
@@ -38,6 +40,8 @@ feoskjfiasddfpsjkfpdsjkf;dsl
 - [Cassandra](https://awesome-prometheus-alerts.grep.to/rules#cassandra)
 - [Zookeeper](https://awesome-prometheus-alerts.grep.to/rules#zookeeper)
 - [Kafka](https://awesome-prometheus-alerts.grep.to/rules#kafka)
+- [Pulsar](https://awesome-prometheus-alerts.grep.to/rules#pulsar)
+- [Solr](https://awesome-prometheus-alerts.grep.to/rules#solr)
 
 #### Reverse proxies and load balancers
 
@@ -59,19 +63,28 @@ feoskjfiasddfpsjkfpdsjkf;dsl
 - [Etcd](https://awesome-prometheus-alerts.grep.to/rules#etcd)
 - [Linkerd](https://awesome-prometheus-alerts.grep.to/rules#linkerd)
 - [Istio](https://awesome-prometheus-alerts.grep.to/rules#istio)
+- [ArgoCD](https://awesome-prometheus-alerts.grep.to/rules#argocd)
 
-#### Network and storage
+#### Network, security and storage
 
 - [Ceph](https://awesome-prometheus-alerts.grep.to/rules#ceph)
 - [ZFS](https://awesome-prometheus-alerts.grep.to/rules#zfs)
 - [OpenEBS](https://awesome-prometheus-alerts.grep.to/rules#openebs)
 - [Minio](https://awesome-prometheus-alerts.grep.to/rules#minio)
+- [SSL/TLS](https://awesome-prometheus-alerts.grep.to/rules#ssl/tls)
 - [Juniper](https://awesome-prometheus-alerts.grep.to/rules#juniper)
 - [CoreDNS](https://awesome-prometheus-alerts.grep.to/rules#coredns)
+- [FreeSwitch](https://awesome-prometheus-alerts.grep.to/rules#freeswitch)
+- [Hashicorp Vault](https://awesome-prometheus-alerts.grep.to/rules#hashicorp-vault)
+- [Cloudflare](https://awesome-prometheus-alerts.grep.to/rules#cloudflare)
 
 #### Other
 
 - [Thanos](https://awesome-prometheus-alerts.grep.to/rules#thanos)
+- [Loki](https://awesome-prometheus-alerts.grep.to/rules#loki)
+- [Promtail](https://awesome-prometheus-alerts.grep.to/rules#promtail)
+- [Cortex](https://awesome-prometheus-alerts.grep.to/rules#cortex)
+- [Jenkins](https://awesome-prometheus-alerts.grep.to/rules#jenkins)
 
 ## 🤝 Contributing
 
