@@ -13,9 +13,6 @@ Collection available here: **[https://awesome-prometheus-alerts.grep.to](https:/
 - [License](#-license)
 
 
-feoskjfiasddfpsjkfpdsjkf;dsl
-
-
 ## 🚨 Rules
 
 #### Basic resource monitoring
